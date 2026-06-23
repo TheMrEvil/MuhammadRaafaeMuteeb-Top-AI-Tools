@@ -242,6 +242,7 @@ A curated list of top AI tools grouped by category.
 - [Replica Studios](https://replicastudios.com/?ref=aitoolscover&utm_source=aitoolscover&utm_medium=referral&utm_campaign=ai-tools-directory) – Create naturally expressive voice performances with Replica's AI.
 - [Boomy](https://boomy.com/?ref=aitoolscover&utm_source=aitoolscover&utm_medium=referral&utm_campaign=ai-tools-directory) – Music creation platform with simple editing.
 - [Rosebud](https://www.rosebud.ai/?ref=aitoolscover&utm_source=aitoolscover&utm_medium=referral&utm_campaign=ai-tools-directory) – Create Games, Share and Play Instantly
+- [Auferet](https://auferet.com) – AI game master for solo text adventures and tabletop RPGs, with persistent memory and your own uploaded lore.
 - [Resemble.ai](https://www.resemble.ai/?ref=aitoolscover&utm_source=aitoolscover&utm_medium=referral&utm_campaign=ai-tools-directory) – Synthetic voice generator with API and audio editing.
 - [MuseNet](https://openai.com/blog/musenet/?ref=aitoolscover&utm_source=aitoolscover&utm_medium=referral&utm_campaign=ai-tools-directory) – Generate 4-minute compositions with 10 different instruments.
 - [eMastered](https://emastered.com/?ref=aitoolscover&utm_source=aitoolscover&utm_medium=referral&utm_campaign=ai-tools-directory) – Fast, affordable audio mastering for musicians.
